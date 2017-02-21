@@ -1,17 +1,17 @@
 {
-	"name": "homebridge-digipower-pdu",
+	"name": "homebridge-apc-pdu",
 	"version": "0.0.1",
-	"description": "HomeBridge plugin for DigiPower PDUs",
+	"description": "HomeBridge plugin for APC MasterSwitch PDUs",
 	"license": "AGPL-3.0",
 	"keywords": [
 		"homebridge-plugin"
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/invliD/homebridge-digipower-pdu.git"
+		"url": "git://github.com/evolver56k/homebridge-apc-pdu.git"
 	},
 	"bugs": {
-		"url": "http://github.com/invliD/homebridge-digipower-pdu/issues"
+		"url": "http://github.com/evolver56k/homebridge-apc-pdu/issues"
 	},
 	"engines": {
 		"node": ">=0.12.0",
