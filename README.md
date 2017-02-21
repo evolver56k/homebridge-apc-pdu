@@ -33,3 +33,4 @@ loops to account for the number of outlets your unit has.
 
 # Room for improvement
 - Poll unit for number of outlets
+- Show the amperage reading somewhere
